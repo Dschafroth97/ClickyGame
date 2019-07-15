@@ -1,7 +1,6 @@
 import React from "react";
 import "./style.css";
 
-// Component for the Navbar
 
 function Nav(props) {
   return (
@@ -11,7 +10,7 @@ function Nav(props) {
           <a href="/">Clicky Game</a>
         </li>
         <li>
-            Score: 0 | Top Score: 0
+          Score: {props.score} | Top Score: {props.topScore}
         </li>
       </ul>
     </nav>

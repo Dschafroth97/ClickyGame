@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/brownpup.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/corgi.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/doggo.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/gshep.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/husky.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/pug.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/assets/pup.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/assets/whitefluff.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/assets/bigeyes.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/assets/floof.jpg",
+    "clicked": false
+  }
+]
