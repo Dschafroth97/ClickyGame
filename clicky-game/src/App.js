@@ -1,9 +1,9 @@
 import React from 'react';
-import Nav from './components/Nav';
+import Game from './components/Game';
 
 function App() {
   return (
-    <Nav />
+    <Game />
   );
 }
 
